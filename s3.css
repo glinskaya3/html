@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(193, 179, 245);
+    color: rgb(150, 123, 153);
+    margin: 5px;
+    padding: 2px;
+}
+
+footer {
+    text-align: right;
+    background-color: whitesmoke;
+}
